@@ -1,7 +1,8 @@
 This repo contains Prebuilt Toolchains for Android ARM64 Kernels
 Already fixed all missing files.
 -----------------------------------------
-fixed all toolchains
+This repo is for floppy android_kernel_xiaomi_msm8996 from https://github.com/JonasCardoso/android_kernel_xiaomi_msm8996 .
+fixed all toolchains.
 
 Current toolchains:
 
