@@ -1,4 +1,7 @@
-*.gold filter=lfs diff=lfs merge=lfs -text
+sabermod_gcc/aarch64-linux-android-4.9/aarch64-linux-android/bin/ld.gold filter=lfs diff=lfs merge=lfs -text
+sabermod_gcc/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld.gold filter=lfs diff=lfs merge=lfs -text
+sabermod_gcc/aarch64-linux-android-7.0/aarch64-linux-gnu/bin/aarch64-ld.gold filter=lfs diff=lfs merge=lfs -text
+sabermod_gcc/aarch64-linux-android-7.0/bin/aarch64-ld.gold filter=lfs diff=lfs merge=lfs -text
 sabermod_gcc/aarch64-linux-android-4.9/libexec/gcc/aarch64-linux-android/4.9.x-sabermod/cc1 filter=lfs diff=lfs merge=lfs -text
 sabermod_gcc/aarch64-linux-android-4.9/libexec/gcc/aarch64-linux-android/4.9.x-sabermod/cc1plus filter=lfs diff=lfs merge=lfs -text
 sabermod_gcc/aarch64-linux-android-4.9/libexec/gcc/aarch64-linux-android/4.9.x-sabermod/lto1 filter=lfs diff=lfs merge=lfs -text
